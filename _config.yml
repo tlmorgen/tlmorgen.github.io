@@ -1,0 +1,11 @@
+title: Taylor Brunson
+description: Software Engineer
+url: https://tlmorgen.github.io
+baseurl: ""
+github_username: tlmorgen
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-seo-tag
